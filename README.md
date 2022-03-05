@@ -1,1 +1,1 @@
-# POPCAT Demo
+# PopAdam Demo
